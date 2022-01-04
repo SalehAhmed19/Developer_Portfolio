@@ -21,6 +21,7 @@ body{
 }
 .sec-01 .column-01 p{
     color: #787878;
+    padding-right: 15px;
 }
 .sec-01 .column-01 a{
     text-decoration: none;
@@ -36,4 +37,36 @@ body{
 }
 .sec-01 .column-02 img{
     width: 80%;
+}
+.sec-02{
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.sec-02 .column-01{
+    width: 50%;
+}
+.sec-02 .column-01 img{
+    width: 70%;
+    padding-left: 100px;
+}
+.sec-02 .column-02{
+    width: 50%;
+    padding-left: 5%;
+}
+.sec-02 .column-02 h2{
+    font-size: 40px;
+}
+.sec-02 .column-02 p{
+    color: #787878;
+    margin-right: 120px;
+}
+.sec-02 .column-02 a{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(#ff6600, #ff1e00);
+    border-radius: 5px;
+    color: #fff;
+    margin-top: 50px;
 }
