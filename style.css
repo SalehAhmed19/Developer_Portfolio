@@ -32,6 +32,9 @@ body{
     color: #fff;
     margin-top: 50px;
 }
+.sec-01 .column-01 a:hover{
+    background-image: linear-gradient(#ec6002, #e91b00);
+}
 .sec-01 .column-02{
     width: 50%;
     padding-left: 5%;
@@ -70,6 +73,9 @@ body{
     border-radius: 5px;
     color: #fff;
     margin-top: 50px;
+}
+.sec-02 .column-02 a:hover{
+    background-image: linear-gradient(#ec6002, #e91b00);
 }
 .sec-03 h2{
     font-size: 40px;
