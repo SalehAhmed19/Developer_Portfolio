@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.sec-01{
+    display: flex;
+}
+.column-01{
+    width: 50%;
+}
+.column-02{
+    width: 50%;
+}
+.column-02 img{
+    width: 70%;
+}
